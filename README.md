@@ -1,2 +1,2 @@
 # Waste-Classification
-Waste classification using computer vision with CNN method
+This project aims to design and build a prototype of an automatic waste sorting system using camera sensors supported by Convolutional Neural Network (CNN). The system is designed to identify and classify various types of waste based on their materials, namely glass, metal, organic waste, paper, plastic, and textile. This prototype is in the form of an automatic trash can integrated with a webcam connected to a laptop. The automatic trash can in this project uses servo motors, stepper motors, and ultrasonic sensors controlled by Arduino.
